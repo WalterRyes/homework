@@ -1,0 +1,11 @@
+#aritmetica
+print(1 + 2)
+
+#resta
+print(9 - 5)
+
+#operacion
+print(((1 + 3) * (9 - 2) / 2) ** 2)
+
+#multiplicacion
+print(3 * 2)
